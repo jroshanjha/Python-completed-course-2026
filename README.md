@@ -64,3 +64,14 @@
 <img width="1439" height="831" alt="image" src="https://github.com/user-attachments/assets/c6551228-021a-4451-a18e-3b1dcb9b4c20" />
 
 
+### 📌 Beginner Practice Questions
+
+- Print your name and age
+
+- Take input from user and display it
+
+- Identify data types of given variables
+
+- Write a program using comments
+
+
