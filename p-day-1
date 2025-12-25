@@ -75,6 +75,14 @@ print("Adult")   # Indentation Error
 | bool      | True, False |
 | NoneType  | None        |
 
+1. numerical   => int , float , complex
+2. Bool => ( True , false )  => boolean
+3. Sequence =>  ( list , tuple, range )
+4. Mapping => ( dictionary )
+5. Set =>( set , fronzset )
+6. String
+7. None
+
 ### Input / Output (I/O)
 
 1. ⌨️ Input — input()
