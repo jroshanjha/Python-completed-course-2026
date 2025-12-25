@@ -28,3 +28,14 @@
 2. High demand in jobs
 
 3. Used by Google, Netflix, NASA, Meta
+
+### Single quotation(' ') or double quotation (" ")
+
+### Identifier  and literal
+
+###  What is identifier or keywords ?
+import keyword
+print(keyword.kwlist)
+
+### Comment => single line or multiple line
+
