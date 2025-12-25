@@ -11,11 +11,18 @@
 
 5. Comments & Syntax
 
+<img width="1148" height="772" alt="image" src="https://github.com/user-attachments/assets/d2322bdc-02d6-481c-b12a-15389e00163c" />
+
+<img width="2240" height="1260" alt="image" src="https://github.com/user-attachments/assets/286c2d40-0b2d-41c9-af29-5f35e5d40221" />
+
+# Python 
+
 <img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/36e4d87e-e8b6-439f-977f-b21028d23b7c" />
 
 <img width="411" height="401" alt="image" src="https://github.com/user-attachments/assets/a7a170b5-70f8-4b91-b24f-476375794184" />
 
 <img width="881" height="728" alt="image" src="https://github.com/user-attachments/assets/3314b9d8-5238-474e-9538-d20a305a11eb" />
+
 
 
 ### Installing Python & IDE (VS Code / PyCharm)
