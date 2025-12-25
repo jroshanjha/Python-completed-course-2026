@@ -29,6 +29,8 @@
 
 3. Used by Google, Netflix, NASA, Meta
 
+## Code Eg ... 
+
 ### Single quotation(' ') or double quotation (" ")
 
 ### Identifier  and literal
@@ -37,5 +39,16 @@
 import keyword
 print(keyword.kwlist)
 
-### Comment => single line or multiple line
+### Comments & Python Syntax  => single line or multiple line
+
+1. 📝 Comments
+- Comments are ignored by Python and used for explanation
+
+2.  Python Syntax
+- ✔ Python uses indentation, not { }
+if age > 18:
+    print("Adult")
+-  if age > 18:
+print("Adult")   # Indentation Error
+
 
