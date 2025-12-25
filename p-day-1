@@ -51,4 +51,38 @@ if age > 18:
 -  if age > 18:
 print("Adult")   # Indentation Error
 
+### 📌 What is a Variable?
+- A variable is a container used to store data.
+
+### 🧠 Rules for Variables
+- No spaces (  begin with a letter (a-z, A-Z) or an underscore (_) , The rest of the name can include letters, digits (0-9), and underscores.
+- Variable names are case-sensitive (e.g., Rahul and rahul are different variables)
+- Cannot start with a number
+- Use meaningful names
+- Avoid keywords ( Variable names should not be the same as any Python keyword ) 
+- Camel Case: myVariableName ,  Pascal Case: MyVariableName ,  Snake Case: my_variable_name
+
+### Types of variables
+- Local Variables: Declared inside a function and can only be accessed within that function.
+- Global Variables: Declared outside any function and can be accessed globally throughout the program.
+
+### 📊 Data Types in Python 
+| Data Type | Example     |
+| --------- | ----------- |
+| int       | 10, 100     |
+| float     | 10.5, 3.14  |
+| str       | "Hello"     |
+| bool      | True, False |
+| NoneType  | None        |
+
+### Input / Output (I/O)
+
+1. ⌨️ Input — input()
+ - Used to take input from the user.
+   name = input("Enter your name: ")
+   print("Welcome", name)
+
+- ⚠️ Important:
+  input() always returns string
+  age = int(input("Enter age: "))
 
