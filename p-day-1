@@ -1,3 +1,14 @@
+##📌 Definition
+1. **High-Level Language and simple language:**
+2. **Interpreted Language:-**
+
+Unlike compiled languages (like C or C++), Python is interpreted. This means that Python code is executed line-by-line, which facilitates a rapid development cycle. However, it may also result in slower execution speeds compared to compiled languages.
+
+3. **General-purpose programming language that is easy to read and write.**
+
+4. **Object oriented Language ( Class, object , constructor , method over loading , over riding  etc. )**
+4. **Dynamice and Open source platform.**
+
 ### ⭐ Key Features
 1. Simple English-like syntax
 
