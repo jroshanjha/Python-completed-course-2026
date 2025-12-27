@@ -51,8 +51,7 @@ if age > 18:
 -  if age > 18:
 print("Adult")   # Indentation Error
 
-### 📌 What is a Variable?
-- A variable is a container used to store data.
+
 
 ### 🧠 Rules for Variables
 - No spaces (  begin with a letter (a-z, A-Z) or an underscore (_) , The rest of the name can include letters, digits (0-9), and underscores.
@@ -67,6 +66,12 @@ print("Adult")   # Indentation Error
 - Global Variables: Declared outside any function and can be accessed globally throughout the program.
 
 ### 📊 Data Types in Python 
+# Data types :-
+A data type is a category that defines what kind of value a variable can store and how it can be used in a program. 
+Data types determine the possible operations on the data and how it is stored in memory. Different programming languages 
+have different data types, which describe the nature of the data a variable can hold.
+
+
 | Data Type | Example     |
 | --------- | ----------- |
 | int       | 10, 100     |
