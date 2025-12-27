@@ -74,4 +74,12 @@
 
 - Write a program using comments
 
+## Input/Output & Printing
+
+1️⃣ Take a user’s name and print a greeting.
+2️⃣ Input two numbers and print their sum.
+3️⃣ Convert input string to uppercase before printing.
+4️⃣ Ask user age and display birth year.
+5️⃣ Print Hello without moving to a new line.
+
 
